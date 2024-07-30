@@ -1,3 +1,6 @@
+# RFID Facility Access System
+## General Overview
+
 1. Install pip
 1.1 Open a terminal in a code editor
 1.2 Paste --> curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
