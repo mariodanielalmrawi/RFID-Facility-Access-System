@@ -14,12 +14,12 @@
 
 2. Install Necessary Modules
 
-Paste --> pip install hashlib, secrets, re, sqlite3, mplcursors, customtkinter, matplotlib, tk, Pillow ttkbootstrap
+* Paste --> pip install hashlib, secrets, re, sqlite3, mplcursors, customtkinter, matplotlib, tk, Pillow ttkbootstrap
 
 3. Getting program to work
 
-Run --> database_init.py
-Run --> testing_dummy_data.py
-If testing_dummmy_data outputs an error then run --> 3.1 and 3.2 again
-Run --> Main.py as many time as one wishes
-If required, reset the database by running 3.1 and 3.2 again once more
+* Run --> database_init.py
+* Run --> testing_dummy_data.py
+* If testing_dummmy_data outputs an error then run --> 3.1 and 3.2 again
+* Run --> Main.py as many time as one wishes
+* If required, reset the database by running 3.1 and 3.2 again once more
