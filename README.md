@@ -1,6 +1,6 @@
 # RFID Facility Access System
 ## General Overview
-* The document is the report for the whole topic.
+* The pdf document is the report for the whole topic.
 * Make sure the images are downloaded and are in the same folder as all of the other files when running.
 
 ## How to get working
