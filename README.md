@@ -5,6 +5,7 @@
 * The document is the report for the whole topic.
 * Make sure the images are downloaded and are in the same folder as all of the other files when running.
 
+## How to get working
 1. Install pip
 1.1 Open a terminal in a code editor
 1.2 Paste --> curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
