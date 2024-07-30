@@ -8,7 +8,7 @@
 ## How to get working
 1. Install pip
 
-* Open a terminal in a code editor
+   i. Open a terminal in a code editor
 * Paste --> curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 * Paste --> python get-pip.py
 
