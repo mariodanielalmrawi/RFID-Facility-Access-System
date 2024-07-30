@@ -1,9 +1,9 @@
 # RFID Facility Access System
 ## General Overview
--The video is for the test cases in the table in the document
--Timestamps are provided in the seperate file.
--The document is the report for the whole topic.
--Make sure the images are downloaded and are in the same folder as all of the other files when running.
+* The video is for the test cases in the table in the document
+* Timestamps are provided in the seperate file.
+* The document is the report for the whole topic.
+* Make sure the images are downloaded and are in the same folder as all of the other files when running.
 
 1. Install pip
 1.1 Open a terminal in a code editor
