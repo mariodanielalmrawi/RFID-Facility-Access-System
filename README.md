@@ -7,14 +7,17 @@
 
 ## How to get working
 1. Install pip
+
 Open a terminal in a code editor
 Paste --> curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 Paste --> python get-pip.py
 
 2. Install Necessary Modules
+
 Paste --> pip install hashlib, secrets, re, sqlite3, mplcursors, customtkinter, matplotlib, tk, Pillow ttkbootstrap
 
 3. Getting program to work
+
 Run --> database_init.py
 Run --> testing_dummy_data.py
 If testing_dummmy_data outputs an error then run --> 3.1 and 3.2 again
